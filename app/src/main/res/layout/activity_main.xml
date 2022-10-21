@@ -80,7 +80,7 @@
             android:layout_marginTop="8dp"
             android:background="#FDF397"
             android:paddingLeft="32px"
-            android:paddingRight="12pxpx"
+            android:paddingRight="32px"
             android:paddingTop="32px"
             android:text="=> Pas d'évènement pour cette date !"
             android:textSize="18sp"
