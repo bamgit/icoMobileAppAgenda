@@ -75,6 +75,8 @@ public class MainActivity extends AppCompatActivity {
 
                 // Mettre à jour le TextView :
                 contenuEvenements.setText(evenementsPourDate.get(dateSelectionee));
+                // Vider le champ de saisie aprés l'ajout :
+                evenement_champ.setText("");
                 }
             }
         });
